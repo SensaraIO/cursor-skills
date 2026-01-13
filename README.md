@@ -9,7 +9,7 @@ A collection of Agent Skills for [Cursor IDE](https://cursor.com).
 1. Open Cursor Settings (`Cmd+Shift+J`)
 2. Navigate to **Rules**
 3. Click **Add Rule** → **Remote Rule (Github)**
-4. Enter: `https://github.com/YOUR_USERNAME/cursor-skills`
+4. Enter: `https://github.com/SensaraIO/cursor-skills`
 
 ### Manual Installation
 
@@ -17,10 +17,10 @@ Clone into your Cursor skills directory:
 
 ```bash
 # User-wide (all projects)
-git clone https://github.com/YOUR_USERNAME/cursor-skills ~/.cursor/skills
+git clone https://github.com/SensaraIO/cursor-skills ~/.cursor/skills
 
 # Or project-specific
-git clone https://github.com/YOUR_USERNAME/cursor-skills .cursor/skills
+git clone https://github.com/SensaraIO/cursor-skills .cursor/skills
 ```
 
 ## Available Skills
